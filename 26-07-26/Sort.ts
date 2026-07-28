@@ -1,3 +1,3 @@
-function mergeSort(arr: any) {
+function mergeSort(arr: any): void {
 
 }
