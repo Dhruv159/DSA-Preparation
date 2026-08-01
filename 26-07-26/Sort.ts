@@ -4,4 +4,5 @@ function mergeSort(arr: any, ): void {
     // let left = mergeSort(0, mid);
     // let right = mergeSort(mid)
     
+
 }
