@@ -13,7 +13,6 @@ function binarySearch(nums: any, target: any) {
             left = mid + 1;
         }
     }
-
     return -1;
 };
 
